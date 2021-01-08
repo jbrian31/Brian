@@ -1,3 +1,4 @@
+# stock monitor of gym equipment
 from twilio.rest import Client
 from datetime import datetime
 from dotenv import load_dotenv
